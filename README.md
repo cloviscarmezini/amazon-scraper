@@ -3,7 +3,7 @@ AMAZON Web Scraper with purpose of studies.
 This project uses integrations with Brightdata to Scrape Amazon page and get their products.
 
 # Dependencies
-- this project depends on the backend, repository here [click here](https://github.com/cloviscarmezini/amazon-scraper-brightdata-backend)
+- this project depends on the backend, repository: [click here](https://github.com/cloviscarmezini/amazon-scraper-brightdata-backend)
 
 
 # Live demo

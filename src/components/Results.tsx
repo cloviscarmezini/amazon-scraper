@@ -11,7 +11,7 @@ export function Results({ results }: ResultProps) {
             {results.map(item => (
                 <Link
                     href={item.url}
-                    key={item.title}
+                    key={item.url}
                     className="flex flex-col space-x-4 w-full bg-white rounded-lg shadow-md p-5"
                 >
                     <div className="relative h-40 w-full">
@@ -44,9 +44,9 @@ export function Results({ results }: ResultProps) {
                         </div>
 
                         <div className="flex flex-wrap gap-2 justify-end mt-5">
-                            { item.features.map(feature=> feature ? (
+                            { item.features.map((feature, index)=> feature ? (
                                 <p
-                                    key={feature}
+                                    key={`${feature}${index}`}
                                     className="text-xs bg-indigo-500 px-2 py-1 text-white rounded-md"
                                 >
                                     { feature }

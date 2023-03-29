@@ -8,7 +8,7 @@ This project uses integrations with Brightdata to Scrape Amazon page and get the
 
 # Live demo
 
-- To test the project [click here](https://github.com/cloviscarmezini/amazon-scraper-brightdata-backend)
+- To test the project [click here](https://amazon-scraper-dl4miunw0-cloviscarmezini.vercel.app)
 
 ## Stack
 

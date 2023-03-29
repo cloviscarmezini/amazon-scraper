@@ -19,5 +19,6 @@ This project uses integrations with Brightdata to Scrape Amazon page and get the
     - New API Route Handlers
 - Brightdata (https://brightdata.com)
 - Tailwind CSS
+- Weebhooks
 - Firebase
 - And more...

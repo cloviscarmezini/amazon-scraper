@@ -8,7 +8,7 @@ This project uses integrations with [Brightdata](https://brightdata.com) to Scra
 
 # Live demo
 
-- To test the project [click here](https://amazon-scraper-cloviscarmezini.vercel.app/)
+- To test the project [click here](https://amazon-scraper-blush.vercel.app/)
 
 ## Stack
 
